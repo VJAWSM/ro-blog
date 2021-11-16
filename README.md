@@ -1,1 +1,1 @@
-A blog written in react, nestjs and <undecided database> served from a raspberry pi.
+A blog written in react, nestjs, sqlite and served from a raspberry pi.
